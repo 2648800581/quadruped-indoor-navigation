@@ -1,0 +1,65 @@
+amcl:
+  ros__parameters:
+    use_sim_time: false
+
+    # 坐标系设置
+    global_frame_id: "map"
+    odom_frame_id: "odom"
+    base_frame_id: "body"
+    scan_topic: "scan"
+
+    # 粒子滤波器参数
+    min_particles: 500
+    max_particles: 2000
+
+    # 初始位姿估计 - 启用自动设置初始位姿
+    set_initial_pose: true
+    initial_pose:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      yaw: 0.0
+    # 初始位姿估计 - 启用自动全局定位，不在RVIZ打点
+    # set_initial_pose: false          # 关闭固定初始位姿设置
+    # global_localization: true        # 启用全局定位模式，粒子分布在整个地图
+    
+    # 全局定位参数 - 增加粒子数量提高定位精度
+    # min_particles: 2000
+    # max_particles: 5000
+
+    # 更新频率
+    update_min_d: 0.05     # 移动0.05米后更新（提高更新频率）
+    update_min_a: 0.1      # 旋转0.1弧度后更新（提高更新频率）
+    resample_interval: 1   # 每次更新都重采样
+
+    # TF广播
+    transform_tolerance: 0.3
+    tf_broadcast: true
+
+    # 激光模型参数
+    laser_model_type: "likelihood_field"
+    laser_likelihood_max_dist: 2.0
+    laser_max_range: 50.0
+    laser_min_range: 0.2
+
+    # 里程计模型参数（使用FAST-LIO2的odom）
+    odom_model_type: "diff-corrected"
+    odom_alpha1: 0.2  # 旋转噪声（旋转部分）
+    odom_alpha2: 0.2  # 旋转噪声（平移部分）
+    odom_alpha3: 0.2  # 平移噪声（平移部分）
+    odom_alpha4: 0.2  # 平移噪声（旋转部分）
+
+    # 恢复参数
+    recovery_alpha_slow: 0.001
+    recovery_alpha_fast: 0.1
+
+    # 保存位姿
+    save_pose_rate: 0.5
+
+    # 始终重置初始位姿 - 禁用，避免每次启动都重置
+    always_reset_initial_pose: false
+    
+    # 添加初始位姿协方差，让AMCL更好地收敛
+    initial_cov_xx: 0.25
+    initial_cov_yy: 0.25
+    initial_cov_aa: 0.0685  # 约等于 (pi/12)^2，即±15度的不确定性
