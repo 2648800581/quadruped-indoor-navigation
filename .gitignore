@@ -1,0 +1,54 @@
+# ROS 2 编译产物
+build/
+install/
+log/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# C++ 编译产物
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ROS 特定文件
+*.bag
+*.db3
+COLCON_IGNORE
+
+# 地图文件（可选，如果地图文件很大）
+# maps/*.pgm
+# maps/*.yaml
+
+# PCD 点云文件（通常很大）
+*.pcd
+PCD/
+
+# 日志文件
+*.log
+Log/
+
+# 临时文件
+*.tmp
+*.bak
+*.backup
+
+# 系统文件
+Thumbs.db
+.directory
