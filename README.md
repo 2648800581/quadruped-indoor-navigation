@@ -1,4 +1,4 @@
-# 四足机器人室内导航系统
+# Agibot D1 四足机器人室内导航系统
 
 [![ROS 2](https://img.shields.io/badge/ROS_2-Humble-blue.svg)](https://docs.ros.org/en/humble/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange.svg)](https://ubuntu.com/)
@@ -9,7 +9,7 @@
 [![Nav2](https://img.shields.io/badge/Nav2-Navigation-yellow.svg)](https://navigation.ros.org/)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-基于 ROS 2 的四足机器人室内导航系统，集成 FAST-LIO2 SLAM、Livox Mid360 激光雷达和 Nav2 导航框架。
+基于 ROS 2 的 Agibot D1 四足机器人室内导航系统，集成 FAST-LIO2 SLAM、Livox Mid360 激光雷达和 Nav2 导航框架。
 
 ## 🎯 主要特性
 
