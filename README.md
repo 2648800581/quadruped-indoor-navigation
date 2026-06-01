@@ -200,13 +200,6 @@ ros2 topic echo /map --once
 ros2 topic echo /amcl_pose --once
 ```
 
-## 📊 性能指标
-
-- **建图频率**：~10 Hz
-- **定位更新**：~50 Hz
-- **导航规划**：~1 Hz
-- **点云处理**：~10 Hz
-
 ## 🤝 贡献
 
 欢迎贡献！请随时提交 Pull Request。
