@@ -24,33 +24,20 @@
   </tr>
 </table>
 
-<style>
-/* 表格占页面一半宽度 */
-table {
-  width: 50%;
-  margin: 0 auto; /* 居中，替代align="center" */
-  border-collapse: collapse;
-}
-/* 图片自适应填满单元格 */
-table td img {
-  width: 100%;
-  height: auto;
-  display: block; /* 消除图片底部留白间隙 */
-}
-</style>
-
+<!-- 外层div限制整体宽度为页面50%，自动居中 -->
+<div width="50%" align="center">
 <table>
   <tr>
     <td>
-      <img src="show/show3.gif" alt="避障测试"/>
+      <!-- width="100%" 图片填满单元格，高度自动等比例适配 -->
+      <img src="show/show3.gif" alt="避障测试" width="100%">
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>避障测试</b>
-    </td>
+    <td align="center"><b>避障测试</b></td>
   </tr>
 </table>
+</div>
 
 
 
