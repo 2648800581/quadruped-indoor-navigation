@@ -26,11 +26,12 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" style="padding: 5px;">
-      <img src="show/show3.gif" alt="避障测试" style="width: calc(100% - 10px); height: auto; display: block;">
+    <!-- 移除 padding:5px -->
+    <td width="50%">
+      <img src="show/show3.gif" alt="避障测试" style="width: 100%; height: auto; display: block;">
     </td>
-    <td width="50%" style="padding: 5px;">
-      <img src="show/show4.jpg" alt="参与证明" style="width: calc(100% - 10px); height: auto; display: block;">
+    <td width="50%">
+      <img src="show/show4.jpg" alt="参与证明" style="width: 100%; height: auto; display: block;">
     </td>
   </tr>
   <tr>
