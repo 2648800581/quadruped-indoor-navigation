@@ -51,11 +51,11 @@
 <p align="center">
   <table align="center" style="width: 100%; max-width: 900px; border-collapse: collapse;">
     <tr>
-      <td align="center" style="padding: 10px; width: 30%;">
+      <td align="center" style="padding: 10px; width: 10%;">
         <img src="show/show5.jpg" alt="参与证明" style="width: 100%;"><br>
         <strong>参与证明</strong>
       </td>
-      <td style="width: 70%;"></td>
+      <td style="width: 90%;"></td>
     </tr>
   </table>
 </p>
