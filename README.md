@@ -25,7 +25,7 @@
 </table>
 
 <!-- 外层div限制整体宽度为页面50%，自动居中 -->
-<div width="50%" align="center">
+<div width="80%" align="center">
 <table>
   <tr>
     <td>
