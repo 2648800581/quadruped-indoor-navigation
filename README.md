@@ -13,51 +13,26 @@
 
 ## 📷 项目展示
 
-<!-- 第一行：室内导航和室外导航，各占40% -->
+<!-- 第一行：室内导航 40%，室外导航 40%（并排居中） -->
 <p align="center">
-  <table align="center" style="width: 100%; max-width: 900px; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 10px; width: 40%;">
-        <img src="show/show1.gif" alt="室内导航" style="width: 100%;"><br>
-        <strong>室内导航</strong>
-      </td>
-      <td align="center" style="padding: 10px; width: 40%;">
-        <img src="show/show3.gif" alt="室外导航" style="width: 100%;"><br>
-        <strong>室外导航</strong>
-      </td>
-      <td style="width: 20%;"></td>
-    </tr>
-  </table>
+  <img src="show/show1.gif" alt="室内导航" width="40%">
+  <img src="show/show3.gif" alt="室外导航" width="40%">
+  <br>
+  <strong>室内导航</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>室外导航</strong>
 </p>
 
-<!-- 第二行：避障测试1（show4）占50%，避障测试2（show2）占30% -->
+<!-- 第二行：避障测试1（show4）50%，避障测试2（show2）30% -->
 <p align="center">
-  <table align="center" style="width: 100%; max-width: 900px; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 10px; width: 50%;">
-        <img src="show/show4.gif" alt="避障测试1" style="width: 100%;"><br>
-        <strong>避障测试1</strong>
-      </td>
-      <td align="center" style="padding: 10px; width: 30%;">
-        <img src="show/show2.gif" alt="避障测试2" style="width: 100%;"><br>
-        <strong>避障测试2</strong>
-      </td>
-      <td style="width: 20%;"></td>
-    </tr>
-  </table>
+  <img src="show/show4.gif" alt="避障测试1" width="50%">
+  <img src="show/show2.gif" alt="避障测试2" width="30%">
+  <br>
+  <strong>避障测试1</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>避障测试2</strong>
 </p>
 
-<!-- 第三行：参与证明（show5）占30%，单独一行 -->
+<!-- 第三行：参与证明（show5）单独一行，宽度改为50%（你可以调大） -->
 <p align="center">
-  <table align="center" style="width: 100%; max-width: 900px; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 10px; width: 10%;">
-        <img src="show/show5.jpg" alt="参与证明" style="width: 100%;"><br>
-        <strong>参与证明</strong>
-      </td>
-      <td style="width: 90%;"></td>
-    </tr>
-  </table>
+  <img src="show/show5.jpg" alt="参与证明" width="50%"><br>
+  <strong>参与证明</strong>
 </p>
 
 ## 🎯 主要特性
