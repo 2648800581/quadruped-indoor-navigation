@@ -24,13 +24,13 @@
   </tr>
 </table>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
   <tr>
-    <td width="50%" style="padding: 4px;">
-      <img src="show/show3.gif" alt="避障测试" style="width: 100%; height: auto; display: block; object-fit: contain;">
+    <td style="width: 50%; min-width: 50%; padding: 5px;">
+      <img src="show/show/show3.gif" alt="避障测试" style="width: 100% !important; height: auto !important; display: block !important;">
     </td>
-    <td width="50%" style="padding: 4px;">
-      <img src="show/show4.jpg" alt="参与证明" style="width: 100%; height: auto; display: block; object-fit: contain;">
+    <td style="width: 50%; min-width: 50%; padding: 5px;">
+      <img src="show/show4.jpg" alt="参与证明" style="width: 100% !important; height: auto !important; display: block !important;">
     </td>
   </tr>
   <tr>
