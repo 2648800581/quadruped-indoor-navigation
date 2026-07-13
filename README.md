@@ -24,17 +24,14 @@
   </tr>
 </table>
 
-<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <colgroup>
-    <col style="width:50%;" />
-    <col style="width:50%;" />
-  </colgroup>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="text-align:center; padding:8px;">
-      <img src="show/show3.gif" alt="避障测试" style="width:100%; height:auto; display:block;" />
+    <!-- 每列固定50%宽度 -->
+    <td width="50%" style="padding: 5px;">
+      <img src="show/show3.gif" alt="避障测试" style="width: 100%; height: auto; display: block;">
     </td>
-    <td style="text-align:center; padding:8px;">
-      <img src="show/show4.jpg" alt="参与证明" style="width:100%; height:auto; display:block;" />
+    <td width="50%" style="padding: 5px;">
+      <img src="show/show4.jpg" alt="参与证明" style="width: 100%; height: auto; display: block;">
     </td>
   </tr>
   <tr>
