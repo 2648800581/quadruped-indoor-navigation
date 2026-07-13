@@ -42,6 +42,41 @@
   </tr>
 </table>
 
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>参与证明</title>
+    <style>
+        /* 外层容器控制整体居中 + 宽度1/3 */
+        .cert-wrap {
+            width: 33.33%; /* 页面1/3宽度 */
+            margin: 0 auto; /* 水平居中 */
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        img {
+            width: 100%;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="cert-wrap">
+        <table>
+            <tr>
+                <td><img src="show/show4.jpg" alt="参与证明"/></td>
+            </tr>
+            <tr>
+                <td align="center"><b>参与证明</b></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
+
 ## 🎯 主要特性
 
 - **实时 SLAM**：使用 FAST-LIO2 进行精确定位和建图
