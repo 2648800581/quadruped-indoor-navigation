@@ -33,14 +33,10 @@
   </tr>
 </table>
 
-<table style="margin:0 auto; width:50%;">
-  <tr>
-    <td><img src="show/show4.jpg" alt="参与证明" style="width:100%;"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>参与证明</b></td>
-  </tr>
-</table>
+<div style="width: 50%; margin: 0 auto; text-align: center;">
+  <img src="show/show4.jpg" alt="参与证明" style="width: 100%;">
+  <p><b>参与证明</b></p>
+</div>
 
 ## 🎯 主要特性
 
