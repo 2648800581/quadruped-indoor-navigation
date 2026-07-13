@@ -13,7 +13,28 @@
 
 ## 📷 项目展示
 
-
+<table>
+  <tr>
+    <td align="center" style="width:50%;">
+      <img src="show/show1.gif" alt="室内导航" style="width:100%; max-width:100%;" />
+      <br/><b>室内导航</b>
+    </td>
+    <td align="center" style="width:50%;">
+      <img src="show/show2.gif" alt="室外导航" style="width:100%; max-width:100%;" />
+      <br/><b>室外导航</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width:50%;">
+      <img src="show/show3.gif" alt="避障测试" style="width:100%; max-width:100%;" />
+      <br/><b>避障测试</b>
+    </td>
+    <td align="center" style="width:50%;">
+      <img src="show/show4.jpg" alt="参与证明" style="width:100%; max-width:100%;" />
+      <br/><b>参与证明</b>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 主要特性
 
