@@ -28,13 +28,13 @@
 </table>
 
 <!-- 第二行：高度固定 200px，宽度自动，居中显示 -->
-<table align="center" style="width:80%; border-collapse:collapse; border:none; margin-top:20px;">
+<table align="center" style="width:80%; border-collapse:collapse; border:none;">
   <tr>
-    <td style="text-align:center; border:none; padding:10px; vertical-align:middle;">
+    <td style="text-align:center; border:none; padding:50px; vertical-align:middle;">
       <img src="show/show3.gif" alt="避障测试" style="height:200px; width:auto; display:block; margin:0 auto;">
       <div style="font-weight:bold; margin-top:8px; text-align:center;">避障测试</div>
     </td>
-    <td style="text-align:center; border:none; padding:10px; vertical-align:middle;">
+    <td style="text-align:center; border:none; padding:50px; vertical-align:middle;">
       <img src="show/show4.jpg" alt="参与证明" style="height:200px; width:auto; display:block; margin:0 auto;">
       <div style="font-weight:bold; margin-top:8px; text-align:center;">参与证明</div>
     </td>
