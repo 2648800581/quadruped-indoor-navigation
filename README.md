@@ -13,33 +13,7 @@
 
 ## 📷 项目展示
 
-<!-- 第一行：室内导航 & 室外导航，各占页面 40% -->
-<table align="center" style="width:80%; table-layout:fixed; border-collapse:collapse; border:none;">
-  <tr>
-    <td style="width:50%; text-align:center; border:none; padding:10px; vertical-align:middle;">
-      <img src="show/show1.gif" alt="室内导航" style="width:100%; height:auto; display:block;">
-      <div style="font-weight:bold; margin-top:8px; text-align:center;">室内导航</div>
-    </td>
-    <td style="width:50%; text-align:center; border:none; padding:10px; vertical-align:middle;">
-      <img src="show/show2.gif" alt="室外导航" style="width:100%; height:auto; display:block;">
-      <div style="font-weight:bold; margin-top:8px; text-align:center;">室外导航</div>
-    </td>
-  </tr>
-</table>
 
-<!-- 第二行：高度固定 200px，宽度自动，居中显示 -->
-<table align="center" style="width:60%; border-collapse:collapse; border:none; margin-top:20px;">
-  <tr>
-    <td style="text-align:center; border:none; padding:10px; vertical-align:middle;">
-      <img src="show/show3.gif" alt="避障测试" style="height:200px; width:auto; display:block; margin:0 auto;">
-      <div style="font-weight:bold; margin-top:8px; text-align:center;">避障测试</div>
-    </td>
-    <td style="text-align:center; border:none; padding:10px; vertical-align:middle;">
-      <img src="show/show4.jpg" alt="参与证明" style="height:200px; width:auto; display:block; margin:0 auto;">
-      <div style="font-weight:bold; margin-top:8px; text-align:center;">参与证明</div>
-    </td>
-  </tr>
-</table>
 
 ## 🎯 主要特性
 
