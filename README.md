@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td><img src="show/show4.gif" alt="参与证明"/></td>
+    <td><img src="show/show4.jpg" alt="参与证明"/></td>
   </tr>
   <tr>
     <td align="center"><b>参与证明</b></td>
