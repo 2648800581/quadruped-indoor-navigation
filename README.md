@@ -11,6 +11,32 @@
 
 基于 ROS 2 的 Agibot D1 四足机器人室内导航系统，集成 FAST-LIO2 SLAM、Livox Mid360 激光雷达和 Nav2 导航框架。
 
+## 📷 项目展示
+
+<!-- 第一行：室内导航 & 室外导航，各占 40% -->
+<div align="center">
+  <figure style="display:inline-block; margin:0 2%; width:40%;">
+    <img src="show/show1.gif" alt="室内导航" style="width:100%;">
+    <figcaption style="text-align:center; font-weight:bold;">室内导航</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:0 2%; width:40%;">
+    <img src="show/show2.gif" alt="室外导航" style="width:100%;">
+    <figcaption style="text-align:center; font-weight:bold;">室外导航</figcaption>
+  </figure>
+</div>
+
+<!-- 第二行：避障测试 & 参与证明，各占 30% -->
+<div align="center">
+  <figure style="display:inline-block; margin:0 2%; width:30%;">
+    <img src="show/show3.gif" alt="避障测试" style="width:100%;">
+    <figcaption style="text-align:center; font-weight:bold;">避障测试</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:0 2%; width:30%;">
+    <img src="show/show4.jpg" alt="参与证明" style="width:100%;">
+    <figcaption style="text-align:center; font-weight:bold;">参与证明</figcaption>
+  </figure>
+</div>
+
 ## 🎯 主要特性
 
 - **实时 SLAM**：使用 FAST-LIO2 进行精确定位和建图
