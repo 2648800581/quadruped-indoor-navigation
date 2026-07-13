@@ -13,28 +13,28 @@
 
 ## 📷 项目展示
 
-<!-- 第一行：室内导航 & 室外导航，各占 40% -->
-<div align="center">
-  <figure style="display:inline-block; margin:0 2%; width:40%;">
-    <img src="show/show1.gif" alt="室内导航" style="width:100%;">
-    <figcaption style="text-align:center; font-weight:bold;">室内导航</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:0 2%; width:40%;">
-    <img src="show/show2.gif" alt="室外导航" style="width:100%;">
-    <figcaption style="text-align:center; font-weight:bold;">室外导航</figcaption>
-  </figure>
+<!-- 第一行：室内导航 & 室外导航，各占页面宽度的 40% -->
+<div style="display: flex; justify-content: center; gap: 2%; flex-wrap: nowrap; margin-bottom: 20px;">
+  <div style="flex: 0 0 40%; text-align: center;">
+    <img src="show/show1.gif" alt="室内导航" style="width: 100%;">
+    <p style="font-weight: bold; margin: 5px 0 0;">室内导航</p>
+  </div>
+  <div style="flex: 0 0 40%; text-align: center;">
+    <img src="show/show2.gif" alt="室外导航" style="width: 100%;">
+    <p style="font-weight: bold; margin: 5px 0 0;">室外导航</p>
+  </div>
 </div>
 
-<!-- 第二行：避障测试 & 参与证明，各占 30% -->
-<div align="center">
-  <figure style="display:inline-block; margin:0 2%; width:30%;">
-    <img src="show/show3.gif" alt="避障测试" style="width:100%;">
-    <figcaption style="text-align:center; font-weight:bold;">避障测试</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:0 2%; width:30%;">
-    <img src="show/show4.jpg" alt="参与证明" style="width:100%;">
-    <figcaption style="text-align:center; font-weight:bold;">参与证明</figcaption>
-  </figure>
+<!-- 第二行：避障测试 & 参与证明，各占页面宽度的 30% -->
+<div style="display: flex; justify-content: center; gap: 2%; flex-wrap: nowrap;">
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="show/show3.gif" alt="避障测试" style="width: 100%;">
+    <p style="font-weight: bold; margin: 5px 0 0;">避障测试</p>
+  </div>
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="show/show4.jpg" alt="参与证明" style="width: 100%;">
+    <p style="font-weight: bold; margin: 5px 0 0;">参与证明</p>
+  </div>
 </div>
 
 ## 🎯 主要特性
