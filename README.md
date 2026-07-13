@@ -28,7 +28,7 @@
 </table>
 
 <!-- 第二行：避障测试 & 参与证明，各占 30% -->
-<table align="center" style="width:60%; border-collapse:collapse; border:none; margin-top:20px;">
+<table align="center" style="width:80%; border-collapse:collapse; border:none; margin-top:20px;">
   <tr>
     <td style="width:50%; text-align:center; border:none; padding:5px;">
       <img src="show/show3.gif" alt="避障测试" style="width:100%;">
