@@ -24,10 +24,14 @@
   </tr>
 </table>
 
-<table>
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td><img src="show/show3.gif" alt="避障测试"/></td>
-    <td><img src="show/show4.jpg" alt="参与证明"/></td>
+    <td style="width:50%; text-align:center; padding:8px;">
+      <img src="show/show3.gif" alt="避障测试" style="width:100%; height:auto; display:block;" />
+    </td>
+    <td style="width:50%; text-align:center; padding:8px;">
+      <img src="show/show4.jpg" alt="参与证明" style="width:100%; height:auto; display:block;" />
+    </td>
   </tr>
   <tr>
     <td align="center"><b>避障测试</b></td>
