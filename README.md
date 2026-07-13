@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-<table align="center" width="50%">
+<table style="margin:0 auto; width:50%;">
   <tr>
     <td><img src="show/show4.jpg" alt="参与证明" style="width:100%;"></td>
   </tr>
