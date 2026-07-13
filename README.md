@@ -15,16 +15,16 @@
 
 <!-- 第一行：室内导航 40%，室外导航 40%（并排居中） -->
 <p align="center">
-  <img src="show/show1.gif" alt="室内导航" width="40%">
-  <img src="show/show3.gif" alt="室外导航" width="40%">
+  <img src="show/show1.gif" alt="室内导航" width="50%">
+  <img src="show/show3.gif" alt="室外导航" width="50%">
   <br>
   <strong>室内导航</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>室外导航</strong>
 </p>
 
 <!-- 第二行：避障测试1（show4）50%，避障测试2（show2）30% -->
 <p align="center">
-  <img src="show/show4.gif" alt="避障测试1" width="50%">
-  <img src="show/show2.gif" alt="避障测试2" width="30%">
+  <img src="show/show4.gif" alt="避障测试1" width="60%">
+  <img src="show/show2.gif" alt="避障测试2" width="40%">
   <br>
   <strong>避障测试1</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>避障测试2</strong>
 </p>
