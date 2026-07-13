@@ -24,20 +24,16 @@
   </tr>
 </table>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <img src="show/show3.gif" alt="避障测试" style="width: 100%; height: auto; display: block; object-fit: fill;">
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <img src="show/show4.jpg" alt="参与证明" style="width: 100%; height: auto; display: block;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>避障测试</b></td>
-    <td align="center"><b>参与证明</b></td>
-  </tr>
-</table>
+<div style="width:100%;overflow:hidden;">
+  <div style="width:50%;float:left;">
+    <img src="show/show3.gif" alt="避障测试" style="width:100%;height:auto;display:block;">
+    <p align="center"><b>避障测试</b></p>
+  </div>
+  <div style="width:50%;float:left;">
+    <img src="show/show4.jpg" alt="参与证明" style="width:100%;height:auto;display:block;">
+    <p align="center"><b>参与证明</b></p>
+  </div>
+</div>
 
 ## 🎯 主要特性
 
