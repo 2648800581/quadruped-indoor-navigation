@@ -31,7 +31,7 @@
 
 <!-- 第三行：参与证明（show5）单独一行，宽度改为50%（你可以调大） -->
 <p align="center">
-  <img src="show/show5.jpg" alt="参与证明" width="50%"><br>
+  <img src="show/show5.jpg" alt="参与证明" width="20%"><br>
   <strong>参与证明</strong>
 </p>
 
