@@ -13,30 +13,30 @@
 
 ## 📷 项目展示
 
-<!-- 第一行：室内导航 & 室外导航，各占 40% -->
-<table align="center" style="width:80%; border-collapse:collapse; border:none;">
+<!-- 第一行：室内导航 & 室外导航，各占页面 40% -->
+<table align="center" style="width:80%; table-layout:fixed; border-collapse:collapse; border:none;">
   <tr>
-    <td style="width:50%; text-align:center; border:none; padding:5px;">
-      <img src="show/show1.gif" alt="室内导航" style="width:100%;">
-      <p style="font-weight:bold; margin:5px 0;">室内导航</p>
+    <td style="width:50%; text-align:center; border:none; padding:10px; vertical-align:middle;">
+      <img src="show/show1.gif" alt="室内导航" style="width:100%; height:auto; display:block;">
+      <div style="font-weight:bold; margin-top:8px; text-align:center;">室内导航</div>
     </td>
-    <td style="width:50%; text-align:center; border:none; padding:5px;">
-      <img src="show/show2.gif" alt="室外导航" style="width:100%;">
-      <p style="font-weight:bold; margin:5px 0;">室外导航</p>
+    <td style="width:50%; text-align:center; border:none; padding:10px; vertical-align:middle;">
+      <img src="show/show2.gif" alt="室外导航" style="width:100%; height:auto; display:block;">
+      <div style="font-weight:bold; margin-top:8px; text-align:center;">室外导航</div>
     </td>
   </tr>
 </table>
 
-<!-- 第二行：避障测试 & 参与证明，各占 30% -->
-<table align="center" style="width:80%; border-collapse:collapse; border:none;">
+<!-- 第二行：避障测试 & 参与证明，各占页面 30% -->
+<table align="center" style="width:80%; table-layout:fixed; border-collapse:collapse; border:none; margin-top:20px;">
   <tr>
-    <td style="width:50%; text-align:center; border:none; padding:5px;">
-      <img src="show/show3.gif" alt="避障测试" style="width:100%;">
-      <p style="font-weight:bold; margin:5px 0;">避障测试</p>
+    <td style="width:50%; text-align:center; border:none; padding:10px; vertical-align:middle;">
+      <img src="show/show3.gif" alt="避障测试" style="width:100%; height:auto; display:block;">
+      <div style="font-weight:bold; margin-top:8px; text-align:center;">避障测试</div>
     </td>
-    <td style="width:50%; text-align:center; border:none; padding:5px;">
-      <img src="show/show4.jpg" alt="参与证明" style="width:100%;">
-      <p style="font-weight:bold; margin:5px 0;">参与证明</p>
+    <td style="width:50%; text-align:center; border:none; padding:10px; vertical-align:middle;">
+      <img src="show/show4.jpg" alt="参与证明" style="width:100%; height:auto; display:block;">
+      <div style="font-weight:bold; margin-top:8px; text-align:center;">参与证明</div>
     </td>
   </tr>
 </table>
