@@ -24,14 +24,14 @@
   </tr>
 </table>
 
-<div style="width:100%;overflow:hidden;">
-  <div style="width:50%;float:left;">
+<div style="width:100%;display:flex;gap:0;">
+  <div style="flex:1;">
     <img src="show/show3.gif" alt="避障测试" style="width:100%;height:auto;display:block;">
-    <p align="center"><b>避障测试</b></p>
+    <p align="center" style="margin-top:8px;"><b>避障测试</b></p>
   </div>
-  <div style="width:50%;float:left;">
+  <div style="flex:1;">
     <img src="show/show4.jpg" alt="参与证明" style="width:100%;height:auto;display:block;">
-    <p align="center"><b>参与证明</b></p>
+    <p align="center" style="margin-top:8px;"><b>参与证明</b></p>
   </div>
 </div>
 
