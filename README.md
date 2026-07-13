@@ -24,12 +24,31 @@
   </tr>
 </table>
 
-<table align="center">
+<style>
+/* 表格占页面一半宽度 */
+table {
+  width: 50%;
+  margin: 0 auto; /* 居中，替代align="center" */
+  border-collapse: collapse;
+}
+/* 图片自适应填满单元格 */
+table td img {
+  width: 100%;
+  height: auto;
+  display: block; /* 消除图片底部留白间隙 */
+}
+</style>
+
+<table>
   <tr>
-    <td><img src="show/show3.gif" alt="避障测试"/></td>
+    <td>
+      <img src="show/show3.gif" alt="避障测试"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>避障测试</b></td>
+    <td align="center">
+      <b>避障测试</b>
+    </td>
   </tr>
 </table>
 
