@@ -13,16 +13,9 @@
 
 ## 📷 项目展示
 
-<table>
-  <tr>
-    <td><img src="show/show1.gif" alt="室内导航"/></td>
-    <td><img src="show/show2.gif" alt="室外导航"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>室内导航</b></td>
-    <td align="center"><b>室外导航</b></td>
-  </tr>
-</table>
+| <img src="show/show1.gif" width="100%" alt="室内导航"> | <img src="show/show2.gif" width="100%" alt="室外导航"> |
+|:---------------------------------------------------:|:---------------------------------------------------:|
+| **室内导航** | **室外导航** |
 
 | <img src="show/show3.gif" width="100%" alt="避障测试"> | <img src="show/show4.jpg" width="100%" alt="参与证明"> |
 |:---------------------------------------------------:|:---------------------------------------------------:|
