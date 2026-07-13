@@ -23,16 +23,10 @@
 
 <!-- 第二行：避障测试1（show4）50%，避障测试2（show2）30% -->
 <p align="center">
-  <img src="show/show4.gif" alt="避障测试1" width="55%">
-  <img src="show/show2.gif" alt="避障测试2" width="35%">
+  <img src="show/show2.gif" alt="避障测试" width="45%">
+  <img src="show/show5.jpg" alt="参与证明" width="45%">
   <br>
-  <strong>避障测试1</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>避障测试2</strong>
-</p>
-
-<!-- 第三行：参与证明（show5）单独一行，宽度改为50%（你可以调大） -->
-<p align="center">
-  <img src="show/show5.jpg" alt="参与证明" width="36%"><br>
-  <strong>参与证明</strong>
+  <strong>避障测试</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>参与证明</strong>
 </p>
 
 ## 🎯 主要特性
