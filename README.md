@@ -15,18 +15,18 @@
 
 <!-- 第一行：室内导航 40%，室外导航 40%（并排居中） -->
 <p align="center">
-  <img src="show/show1.gif" alt="室内导航" width="45%">
-  <img src="show/show3.gif" alt="室外导航" width="45%">
+  <img src="show/show1.gif" alt="室内导航" width="40%">
+  <img src="show/show3.gif" alt="室外导航" width="40%">
   <br>
   <strong>室内导航</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>室外导航</strong>
 </p>
 
 <!-- 第二行：避障测试1（show4）50%，避障测试2（show2）30% -->
 <p align="center">
-  <img src="show/show2.gif" alt="避障测试" width="45%">
-  <img src="show/show5.jpg" alt="参与证明" width="45%">
+  <img src="show/show2.gif" alt="避障测试" width="40%">
+  <img src="show/show5.jpg" alt="参与证明" width="40%">
   <br>
-  <strong>避障测试</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>参与证明</strong>
+  <strong>避障测试</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>参与证明</strong>
 </p>
 
 ## 🎯 主要特性
