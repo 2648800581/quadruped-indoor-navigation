@@ -24,20 +24,9 @@
   </tr>
 </table>
 
-<!-- 外层div限制整体宽度为页面50%，自动居中 -->
-<div width="80%" align="center">
-<table>
-  <tr>
-    <td>
-      <!-- width="100%" 图片填满单元格，高度自动等比例适配 -->
-      <img src="show/show3.gif" alt="避障测试" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>避障测试</b></td>
-  </tr>
-</table>
-</div>
+| <img src="show/show3.gif" width="50%" alt="避障测试"> |
+|:---------------------------------------------------:|
+| **避障测试** |
 
 
 
