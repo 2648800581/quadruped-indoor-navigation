@@ -24,16 +24,24 @@
   </tr>
 </table>
 
-<div style="display:flex; width:100%; gap:10px;">
-  <div style="flex:1; text-align:center;">
-    <img src="show/show3.gif" alt="避障测试" style="width:100%; height:auto; display:block;" />
-    <b>避障测试</b>
-  </div>
-  <div style="flex:1; text-align:center;">
-    <img src="show/show4.jpg" alt="参与证明" style="width:100%; height:auto; display:block;" />
-    <b>参与证明</b>
-  </div>
-</div>
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <colgroup>
+    <col style="width:50%;" />
+    <col style="width:50%;" />
+  </colgroup>
+  <tr>
+    <td style="text-align:center; padding:8px;">
+      <img src="show/show3.gif" alt="避障测试" style="width:100%; height:auto; display:block;" />
+    </td>
+    <td style="text-align:center; padding:8px;">
+      <img src="show/show4.jpg" alt="参与证明" style="width:100%; height:auto; display:block;" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>避障测试</b></td>
+    <td align="center"><b>参与证明</b></td>
+  </tr>
+</table>
 
 ## 🎯 主要特性
 
