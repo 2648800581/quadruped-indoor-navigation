@@ -13,13 +13,39 @@
 
 ## 📷 项目展示
 
-| 室内导航 | 避障测试1 | 避障测试2 |
-| :---: | :---: | :---: |
-| ![show1](show/show1.gif) | ![show2](show/show2.gif) | ![show4](show/show4.gif) |
+<!-- 室内导航 - 横屏单独一行 -->
+<p align="center">
+  <strong>室内导航</strong><br>
+  <img src="show/show1.gif" alt="室内导航" width="80%">
+</p>
 
-| 室外导航 | 参与证明 |
-| :---: | :---: |
-| ![show3](show/show3.gif) | ![show5](show/show5.jpg) |
+<!-- 室外导航 - 横屏单独一行 -->
+<p align="center">
+  <strong>室外导航</strong><br>
+  <img src="show/show3.gif" alt="室外导航" width="80%">
+</p>
+
+<!-- 避障测试2 - 横屏单独一行 -->
+<p align="center">
+  <strong>避障测试1</strong><br>
+  <img src="show/show4.gif" alt="避障测试1" width="80%">
+</p>
+
+<!-- 避障测试1 和 参与证明 - 竖屏并排 -->
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="show/show2.gif" alt="避障测试2" width="45%"><br>
+        <strong>避障测试2</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="show/show5.jpg" alt="参与证明" width="45%"><br>
+        <strong>参与证明</strong>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 🎯 主要特性
 
