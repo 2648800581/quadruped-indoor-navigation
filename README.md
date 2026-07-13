@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td><img src="show/show3.gif" alt="避障测试"/></td>
   </tr>
@@ -33,10 +33,7 @@
   </tr>
 </table>
 
-<div style="width: 50%; margin: 0 auto; text-align: center;">
-  <img src="show/show4.jpg" alt="参与证明" style="width: 100%;">
-  <p><b>参与证明</b></p>
-</div>
+
 
 ## 🎯 主要特性
 
