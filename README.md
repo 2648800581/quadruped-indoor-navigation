@@ -13,20 +13,28 @@
 
 ## 📷 项目展示
 
-<!-- 第一行：室内导航 40%，室外导航 40%（并排居中） -->
+<!-- 第一行：室内导航 40%，室外导航 40% -->
 <p align="center">
-  <img src="show/show1.gif" alt="室内导航" width="40%">
-  <img src="show/show3.gif" alt="室外导航" width="40%">
-  <br>
-  <strong>室内导航</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>室外导航</strong>
+  <div style="display: inline-block; width: 40%; text-align: center; margin: 0 5px;">
+    <img src="show/show1.gif" alt="室内导航" style="width: 100%;">
+    <br><strong>室内导航</strong>
+  </div>
+  <div style="display: inline-block; width: 40%; text-align: center; margin: 0 5px;">
+    <img src="show/show3.gif" alt="室外导航" style="width: 100%;">
+    <br><strong>室外导航</strong>
+  </div>
 </p>
 
-<!-- 第二行：避障测试1（show4）50%，避障测试2（show2）30% -->
+<!-- 第二行：避障测试（show2）和参与证明（show5），各40% -->
 <p align="center">
-  <img src="show/show2.gif" alt="避障测试" width="40%">
-  <img src="show/show5.jpg" alt="参与证明" width="40%">
-  <br>
-  <strong>避障测试</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>参与证明</strong>
+  <div style="display: inline-block; width: 40%; text-align: center; margin: 0 5px;">
+    <img src="show/show2.gif" alt="避障测试" style="width: 100%;">
+    <br><strong>避障测试</strong>
+  </div>
+  <div style="display: inline-block; width: 40%; text-align: center; margin: 0 5px;">
+    <img src="show/show5.jpg" alt="参与证明" style="width: 100%;">
+    <br><strong>参与证明</strong>
+  </div>
 </p>
 
 ## 🎯 主要特性
